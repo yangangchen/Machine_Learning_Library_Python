@@ -20,15 +20,15 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 **Contents:**
 
-1. My own implementation for **feedforward neural networks**.
+1. **My own implementation** for **feedforward neural networks**.
 
-2. My own implementation for **convolutional neural networks**.
+2. **My own implementation** for **convolutional neural networks**.
 
-3. My own implementation for **recurrent neural networks**.
+3. **My own implementation** for **recurrent neural networks**.
 
-4. Examples of classification using scikit-learn libraries.
+4. Using **scikit-learn** and **pandas** libraries for classification.
 
-5. Examples of convolutional neural network using tensorflow and keras libraries.
+5. Using **tensorflow** and **keras** libraries convolutional neural networks.
 
 **Requirements:**
 
