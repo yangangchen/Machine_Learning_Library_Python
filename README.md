@@ -1,4 +1,4 @@
-# Sample Python Scripts
+# Machine Learning Library in Python
 
 Copyright (C) 2017  Yangang Chen
 
